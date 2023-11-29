@@ -1,0 +1,20 @@
+19.3s 1 18.090377649263466
+19.9s 2 /opt/conda/lib/python3.7/site-packages/ipykernel_launcher.py:6: SettingWithCopyWarning:
+19.9s 3 A value is trying to be set on a copy of a slice from a DataFrame.
+19.9s 4 Try using .loc[row_indexer,col_indexer] = value instead
+19.9s 5 
+19.9s 6 See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+19.9s 7 
+23.1s 8 /opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2561: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+23.1s 9 FutureWarning,
+23.1s 10 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+23.6s 11 [NbConvertApp] Writing 170122 bytes to __notebook__.ipynb
+25.1s 12 /opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2561: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+25.1s 13 FutureWarning,
+25.1s 14 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+26.3s 15 [NbConvertApp] Support files will be in __results___files/
+26.3s 16 [NbConvertApp] Making directory __results___files
+26.3s 17 [NbConvertApp] Making directory __results___files
+26.3s 18 [NbConvertApp] Making directory __results___files
+26.3s 19 [NbConvertApp] Making directory __results___files
+26.3s 20 [NbConvertApp] Writing 325449 bytes to __results__.html
